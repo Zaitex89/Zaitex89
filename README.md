@@ -1,14 +1,12 @@
 > Passionate about ethical hacking, penetration testing, and CTF challenges.
 > Currently building my skills through hands-on lab environments and vulnerable machines.
 
----
 
 ## About Me
 
 I'm a self-taught cybersecurity enthusiast focused on penetration testing and offensive security.
 I learn by doing, setting up home labs, hacking vulnerable VMs, and documenting every step of the process.
 
----
 
 ## Skills & Tools
 
@@ -42,7 +40,6 @@ I learn by doing, setting up home labs, hacking vulnerable VMs, and documenting 
 - FTP, SSH, SMB, HTTP protocols
 - Virtual network configuration (VMware NAT/Host-Only)
 
----
 
 ## 🏆 CTF Writeups
 
@@ -53,7 +50,6 @@ I learn by doing, setting up home labs, hacking vulnerable VMs, and documenting 
 | [HackathonCTF 2](writeups/HackathonCTF2.md) | Easy | VulnHub | FTP, Hidden HTML comments, Hydra SSH brute force, Sudo vim privesc | ✅ Rooted |
 | [Empire: Breakout](writeups/EmpireBreakout.md) | Easy | VulnHub | enum4linux, Brainfuck decode, Usermin, tar capabilities privesc | ✅ Rooted |
 
----
 
 ## Home Lab Setup
 
